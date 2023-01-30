@@ -1,17 +1,17 @@
 // INI SC MASIH ADA BUG YA FIX IN AJA
 // BASE ILMANHDYT
 // SC ORI HYZER
-// CREATOR KRIZYN OFC
-// RECODE BY ZIFABOTZ
+// CREATOR SANDI BOTZ
+// RECODE BY SANDI BOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['628973956016'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['628973956016'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['628973956016'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global.nameowner = 'ᴹᴿ᭄ SandiBotzOffcོ_1ঔৣ꧂'
+global.numberowner = '628973956016' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
 global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
@@ -19,13 +19,13 @@ global.sc = 'https://youtu.be/lMcwJMp_0rM' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/3m7tRD4RklM' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/PzUH1ApMCig' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '081251549899' //ganti pakai nomor dana mu
-global.pulsa = '081352848936' //ganti pakai nomor pulsa mu
-global.gopay = '081352848936' //ganti pakai nomor Gopay mu
+global.dana = '085789562500' //ganti pakai nomor dana mu
+global.pulsa = '085789562500' //ganti pakai nomor pulsa mu
+global.gopay = '08973956016' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Danibotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
-global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai grup mu
+global.namebot = '❋ཻུ۪۪⸙SANDIbotz-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
+global.gc = 'KOSONG TOD' //ganti pakai grup mu
 global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"_"' //ganti pakai Instagram mu
 global.saweria = '"_"' //bebas ganti aja pakai apa
@@ -41,13 +41,13 @@ global.fotonya5 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga
 global.fotonya6 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/5da3cd5d775775f5e8791.jpg' //ini juga ganti
 global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/c171460c1e60d22ea379e.jpg' //ganti pakai poto payment atau apa
+global.donasi = 'https://sociabuzz.com/sandi114/tribe' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪Danibotz-Ofc⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪SANDibotz-Ofc⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜDani_ofcོ1꧅'
-global.wm3 = 'ᯤ Dani Offcial'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜSandi_ofcོ1꧅'
+global.wm3 = 'ᯤ SANDI Offcial'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
